@@ -1,1 +1,1 @@
-To upload new files to the server, go to Services->My Services
+To upload new files to the server, go to Services->My Services.
